@@ -1,0 +1,13 @@
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.exe
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.deps.json
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.runtimeconfig.json
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.runtimeconfig.dev.json
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.dll
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\bin\Debug\netcoreapp3.1\回调.pdb
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.csprojAssemblyReference.cache
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.AssemblyInfoInputs.cache
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.AssemblyInfo.cs
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.csproj.CoreCompileInputs.cache
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.dll
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.pdb
+C:\Users\sjf12\OneDrive\Git\C#\回调\回调\obj\Debug\netcoreapp3.1\回调.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Users\sjf12\OneDrive\Git\C#\Event\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "回调", "回调\回调.csproj", "{BE023719-310F-4772-9193-5E789C6A893A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE023719-310F-4772-9193-5E789C6A893A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE023719-310F-4772-9193-5E789C6A893A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE023719-310F-4772-9193-5E789C6A893A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE023719-310F-4772-9193-5E789C6A893A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCE62C3-FFAC-4391-AE21-F8673DB10A2A}
+	EndGlobalSection
+EndGlobal
